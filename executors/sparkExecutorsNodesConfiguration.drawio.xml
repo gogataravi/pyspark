@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2024-01-27T18:17:27.098Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15" etag="mBA4i9fpvFfpMXuMgv51" version="23.0.2" type="device">
+  <diagram name="Page-1" id="Rp3fsCCb71eQYYmtQUTk">
+    <mxGraphModel dx="2924" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="f_sJXEd5yknYaa-9Knx--3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=4;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="370" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="f_sJXEd5yknYaa-9Knx--4" value="&lt;b&gt;16GB RAM&lt;br&gt;4 Cores&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-85" y="380" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f_sJXEd5yknYaa-9Knx--6" value="&lt;h3&gt;&lt;b&gt;Rule of Thumb&lt;/b&gt;&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;i&gt;&lt;b&gt;For Smaller work loads 1 core per Executor should be sufficient&amp;nbsp;&lt;/b&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;b&gt;For larger work loads 2 cores per Executor should be sufficient&lt;/b&gt;&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-471" y="248" width="430" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="f_sJXEd5yknYaa-9Knx--7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_thumb_up_48px-128.png" vertex="1" parent="1">
+          <mxGeometry x="-371" y="258" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="f_sJXEd5yknYaa-9Knx--8" value="~7GB Memory&lt;br&gt;2 cores" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="560" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f_sJXEd5yknYaa-9Knx--9" value="~7GB Memory&lt;br&gt;2 cores" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="490" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f_sJXEd5yknYaa-9Knx--12" value="&lt;b&gt;Spark Node&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="340" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f_sJXEd5yknYaa-9Knx--13" value="&lt;i&gt;Executor 1&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="463" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f_sJXEd5yknYaa-9Knx--14" value="&lt;i&gt;Executor 2&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="535" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f_sJXEd5yknYaa-9Knx--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f_sJXEd5yknYaa-9Knx--17" target="f_sJXEd5yknYaa-9Knx--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f_sJXEd5yknYaa-9Knx--17" value="" style="editableCssRules=.*;html=1;shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiB2aWV3Qm94PSIwIDAgMjAgMTYiPiYjeGE7CTxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+JiN4YTsJLnN0MHtmaWxsOiM0Mjg1ZjQ7fSYjeGE7CS5zdDF7ZmlsbDojNjY5ZGY2O30mI3hhOwkuc3Qye2ZpbGw6I2FlY2JmYTt9JiN4YTsJLnN0M3tmaWxsOiNmZmY7fSYjeGE7CTwvc3R5bGU+JiN4YTsJPHBhdGggY2xhc3M9InN0MiIgZD0iTTAgMGgyMHY3SDB6Ii8+JiN4YTsJPHBhdGggY2xhc3M9InN0MSIgZD0iTTE4IDBoMnY3aC0yeiIvPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xOCA3bDItN2gtMnoiLz4mI3hhOwk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNMCAwaDJ2N0gweiIvPiYjeGE7CTxnIGNsYXNzPSJzdDMiPiYjeGE7CQk8cGF0aCBkPSJNNCAzaDZ2MUg0eiIvPiYjeGE7CQk8cmVjdCB4PSIxMyIgeT0iMiIgd2lkdGg9IjMiIGhlaWdodD0iMyIgcng9IjEuNSIvPiYjeGE7CTwvZz4mI3hhOwk8cGF0aCBjbGFzcz0ic3QyIiBkPSJNMCA5aDIwdjdIMHoiLz4mI3hhOwk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNMTggOWgydjdoLTJ6Ii8+JiN4YTsJPHBhdGggY2xhc3M9InN0MCIgZD0iTTE4IDE2bDItN2gtMnoiLz4mI3hhOwk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNMCA5aDJ2N0gweiIvPiYjeGE7CTxnIGNsYXNzPSJzdDMiPiYjeGE7CQk8cGF0aCBkPSJNNCAxMmg2djFINHoiLz4mI3hhOwkJPHJlY3QgeD0iMTMiIHk9IjExIiB3aWR0aD0iMyIgaGVpZ2h0PSIzIiByeD0iMS41Ii8+JiN4YTsJPC9nPiYjeGE7PC9zdmc+;" vertex="1" parent="1">
+          <mxGeometry x="-380.75" y="467" width="57.5" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="f_sJXEd5yknYaa-9Knx--18" value="&lt;b&gt;30GB Files&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-397" y="528" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f_sJXEd5yknYaa-9Knx--20" value="&lt;b&gt;Number of tasks = &lt;br&gt;30GB/7GB&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="440" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f_sJXEd5yknYaa-9Knx--23" value="" style="endArrow=classic;html=1;rounded=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="360" as="sourcePoint" />
+            <mxPoint x="330" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="310" />
+              <mxPoint x="250" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="f_sJXEd5yknYaa-9Knx--24" value="&lt;b&gt;Monitor/ Optimize&lt;br&gt;for larger datasets&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="463" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f_sJXEd5yknYaa-9Knx--26" value="" style="endArrow=classic;html=1;rounded=0;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="550" as="sourcePoint" />
+            <mxPoint x="40" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
